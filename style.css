@@ -13,7 +13,8 @@ html {
 }
 
 body {
-    background: #14203a;
+    background-image: url(images/bgTiles-transformed.png);
+    background-repeat:repeat;
     color: white;
 }
 
