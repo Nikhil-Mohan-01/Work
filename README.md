@@ -6,3 +6,7 @@ The links to include:
 - GDP
 - Impact
 - MyStudio
+
+You can view this website here: **https://nikhil-mohan-01.github.io/Work.github.io/**
+
+This website is only intended to save my quick links so I can log into my work computer faster
